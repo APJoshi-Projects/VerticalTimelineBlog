@@ -1,2 +1,5 @@
 # VerticalTimelineBlog
-VerticalTimelineBlog for creating history and to measure health, wealth and growth.
+VerticalTimelineBlog for
+creating history and
+to measure 
+health, wealth and growth.
