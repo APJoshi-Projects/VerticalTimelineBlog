@@ -2,7 +2,7 @@
 /*
  * VerticalTimelineBlogCreator.php
  * 
- * Copyright 2020 Ankur Joshi <ankurjoshi@outlook.com>
+ * Copyright 2020 Ankur Joshi <ankurjoshi_807@yahoo.co.in>
  * 
  * This is free and unencumbered software released into the public domain.
  *
@@ -39,7 +39,7 @@ Fo r more information, please refer to <https://unlicense.org>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-	<title>untitled</title>
+	<title>A.P.Joshi Timeline</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<meta name="generator" content="Geany 1.36" />
 </head>
